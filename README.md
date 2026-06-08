@@ -1,44 +1,44 @@
 # Hey, I'm Ashar 👋
 
-I'm a Computer Science student and Full-Stack Developer from India.
+I'm a Computer Science student and Full-Stack Developer.
 
 Most of my time goes into building web applications, learning how things work under the hood, and improving my problem-solving skills. I enjoy taking an idea, breaking it down into smaller pieces, and turning it into something people can actually use.
 
 ## What I'm Working On
 
-* Building full-stack applications with React, TypeScript, Node.js, and PostgreSQL
-* Strengthening Data Structures & Algorithms in Java
-* Learning more about backend architecture, databases, and system design
-* Exploring ways to write cleaner, more maintainable code
+ Building full-stack applications with React, TypeScript, Node.js, and PostgreSQL
+ Strengthening Data Structures & Algorithms in Java
+ Learning more about backend architecture, databases, and system design
+ Exploring ways to write cleaner, more maintainable code
 
 ## Tech Stack
 
 ### Frontend
 
-* React
-* TypeScript
-* JavaScript
-* Tailwind CSS
-* Bootstrap
+ React
+ TypeScript
+ JavaScript
+ Tailwind CSS
+ Bootstrap
 
 ### Backend
 
-* Node.js
-* Express.js
+ Node.js
+ Express.js
 
 ### Databases
 
-* PostgreSQL
-* MongoDB
-* Prisma
+ PostgreSQL
+ MongoDB
 
 ### Tools
 
-* Git
-* GitHub
-* Postman
-* Vercel
-* Render
+ Git
+ GitHub
+ Postman
+ Vercel
+ Render
+ Prisma
 
 ## Featured Projects
 
