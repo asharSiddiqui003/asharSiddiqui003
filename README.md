@@ -15,30 +15,19 @@ Most of my time goes into building web applications, learning how things work un
 
 ### Frontend
 
- React
- TypeScript
- JavaScript
- Tailwind CSS
- Bootstrap
+ React, TypeScript, JavaScript, Tailwind CSS, Bootstrap
 
 ### Backend
 
- Node.js
- Express.js
+ Node.js, Express.js
 
 ### Databases
 
- PostgreSQL
- MongoDB
+ PostgreSQL, MongoDB
 
 ### Tools
 
- Git
- GitHub
- Postman
- Vercel
- Render
- Prisma
+ Git, GitHub, Postman, Vercel, Render, Prisma
 
 ## Featured Projects
 
